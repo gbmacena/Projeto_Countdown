@@ -17,4 +17,3 @@ Para rodar este projeto, basta seguir os seguintes passos:
 
 Não é necessário instalar nenhuma dependência, pois o projeto utiliza apenas tecnologias web básicas.
 
-**Gabriel Macena** - 20 anos - Desenvolvedor Web.
