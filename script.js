@@ -2,9 +2,10 @@ const daysEl = document.getElementById("days");
 const hoursEl = document.getElementById("hours");
 const minsEl = document.getElementById("mins");
 const secondsEl = document.getElementById("seconds");
-const fullYear = Date().getFullYear()
+const fullYear = new Date().getFullYear()
 
 const newYears = `1 Jan ${fullYear}`;
+console.log(newYears);
 
 function countdown() {
     const newYearsDate = new Date(newYears);
